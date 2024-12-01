@@ -38,7 +38,7 @@ Two machine learning models, **Random Forest** and **XGBoost (XGB)**, were emplo
   - **MCI vs NC**
 
 ## Evaluation Metric
-- **TBA (To Be Announced):** This project evaluates models based on the TBA metric.
+- **TBA
 
 ## Conclusion
 This project explores the classification of dementia using standardized and mixed EEG datasets. Multiple experiments were conducted to refine the model's ability to classify multiclass and binary targets, including the integration of CSP features to improve performance in binary tasks.
