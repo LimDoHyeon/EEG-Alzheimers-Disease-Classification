@@ -38,5 +38,5 @@ Two machine learning models, **Random Forest** and **XGBoost (XGB)**, were emplo
   - **AD vs NC**
   - **MCI vs NC**
 
-## Evaluation Metric
+## Result
 <img src="https://github.com/user-attachments/assets/4a0d6049-1b61-49d2-b248-1ff03992d1ce">
