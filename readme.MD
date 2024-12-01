@@ -39,4 +39,4 @@ Two machine learning models, **Random Forest** and **XGBoost (XGB)**, were emplo
   - **MCI vs NC**
 
 ## Evaluation Metric
-- **TBA
+<img src="https://github.com/user-attachments/assets/4a0d6049-1b61-49d2-b248-1ff03992d1ce">
