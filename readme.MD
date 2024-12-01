@@ -8,10 +8,11 @@ This project aims to classify dementia using a mixed EEG dataset containing thre
   - **AD:** Contains data from two different datasets.
   - **MCI:** Contains data from a single dataset.
   - **NC:** Contains data from six different datasets.
-- **Standardization:**
+- **Preprocessing:**
   - Number of electrodes: 19
   - Sampling rate: 250 Hz
   - Segment duration: 30 seconds
+  - Applied StandardScaler
 
 ## Model and Experiments
 Two machine learning models, **Random Forest** and **XGBoost (XGB)**, were employed to perform classification. The experiments were conducted in the following versions:
