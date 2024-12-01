@@ -1,5 +1,4 @@
 # Mixed EEG Dataset Dementia Classification Project
-(주식회사 4N 인턴 프로젝트)
 
 ## Project Overview
 This project aims to classify dementia using a mixed EEG dataset containing three classes: AD (Alzheimer's Disease), MCI (Mild Cognitive Impairment), and NC (Normal Control). Multiple datasets were combined and standardized to create a unified dataset for training and evaluating machine learning models.
