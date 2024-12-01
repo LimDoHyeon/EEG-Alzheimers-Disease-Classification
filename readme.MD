@@ -14,6 +14,9 @@ This project aims to classify dementia using a mixed EEG dataset containing thre
   - Segment duration: 30 seconds
   - Applied StandardScaler
 
+## Features
+- Kurtosis / Band Power(alpha, beta, theta, delta, gamma) / Spectral Entropy / CSP(only in version 4)
+
 ## Model and Experiments
 Two machine learning models, **Random Forest** and **XGBoost (XGB)**, were employed to perform classification. The experiments were conducted in the following versions:
 
