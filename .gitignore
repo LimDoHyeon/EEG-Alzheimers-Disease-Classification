@@ -1,1 +1,3 @@
 /model/
+.DS_Store
+preprocessing/__pycache__/extract_features.cpython-37.pyc
